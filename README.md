@@ -2,11 +2,13 @@
 # February 2019 Sales Performance Dashboard
 
 ## Overview
-This Tableau project explores February 2019 sales performance through an interactive dashboard designed to highlight trends, compare results, and support data-driven decision-making.
+This Tableau project analyzes February 2019 sales performance and presents key business insights through an interactive dashboard. It was designed to highlight trends, support performance evaluation, and demonstrate skills in dashboard design, data visualization, and data storytelling.
+
 
 ## Tools Used
 - Tableau 
-- Excel 
+- Excel
+- Tableau Public
 - Data Visualization
 - Dashboard Design
 
